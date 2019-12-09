@@ -1,14 +1,6 @@
----
-description: En liten beskrivning
----
+# TESTING
 
-# Testing
-
-Welcome to the testing wikinnnnnn!
+Welcome to the testing wiknnnnni!
 
 `<button>Button</button>`
-
-```markup
-<button type="submit">Button</button>
-```
 

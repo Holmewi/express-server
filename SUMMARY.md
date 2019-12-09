@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Testing](README.md)
+* [TESTING](README.md)
 
