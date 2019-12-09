@@ -4,7 +4,7 @@ description: En liten beskrivning
 
 # Testing
 
-Welcome to the testing wikinnnn!
+Welcome to the testing wikinnnnnn!
 
 `<button>Button</button>`
 
